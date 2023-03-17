@@ -1,5 +1,6 @@
 # lu_cg_mm_index
 Crabgame mapmod host index
+https://github.com/LualtOfficial/lu_cg_mm_index/raw/main/index
 
 ---
 
