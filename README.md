@@ -9,4 +9,4 @@ Includes maps from these indexes:
  
 --- 
 
-![maps](https://github.com/LualtOfficial/lu_cg_mm_index/blob/branch/maps.png?raw=true)
+![maps](https://github.com/LualtOfficial/lu_cg_mm_index/blob/main/maps.png?raw=true)
