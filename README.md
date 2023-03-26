@@ -2,6 +2,8 @@
 # lu_cg_mm_index
 Crabgame mapmod host index -> https://github.com/LualtOfficial/lu_cg_mm_index/raw/main/index
 
+Want me to add or remove a map? make an issue or message me on discord (Lualt#5808)
+
 ---
 Includes maps from these indexes:
  - [o7Moon/CrabGame.MapMod](https://github.com/o7Moon/CrabGame.MapMod/tree/main/index/)
