@@ -39,5 +39,15 @@ Includes maps from these indexes:
  - [MacCraker/cs1.6crabgamemaps](https://github.com/MacCraker/cs1.6crabgamemaps/tree/main/cs1.6)
    - [mc2k] CS1.6 Inferno
    - [mc2k] CS1.6 Italy
+ - [SunkenStudios/CrabGamePlusMaps](https://github.com/SunkenStudios/CrabGamePlusMaps)
+   - Cliffside Crazy
+   - Icy Cliff
+   - Lobby
+   - Mellow Mountain
+   - Pirate Wars
+   - Ruins
+   - Sloppy Silo
+   - Sumo Showdown
+   - Sumo Smackdown
 --- 
 ![maps](https://github.com/LualtOfficial/lu_cg_mm_index/blob/main/maps.png?raw=true)
